@@ -1,0 +1,21 @@
+{
+  "name": "PWA Demo App",
+  "short_name": "PWA Demo",
+  "description": "Простое PWA-приложение с кнопкой и уведомлением",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/icon-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
